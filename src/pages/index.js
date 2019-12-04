@@ -11,7 +11,7 @@ export default class IndexPage extends Component {
 
 render() {
 return (
-  <FacebookProvider appId="162160697914418" chatSupport>
+  <FacebookProvider appId="843611769430123" chatSupport>
   <CustomChat pageId="162160697914418" minimized={false}/>
 </FacebookProvider>    
  
